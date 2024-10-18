@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "whatsappNumber": "081226696016",
+      "password": "fiz"
+    },
+    {
+      "whatsappNumber": "082241809796",
+      "password": "nina"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "081226696016",
+      "token": "anin"
+    },
+    {
+      "whatsappNumber": "082241809796",
+      "token": "fianzsrow"
+    }
+  ]
+}
